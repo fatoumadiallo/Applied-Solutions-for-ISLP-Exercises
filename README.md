@@ -1,4 +1,4 @@
-# Applied-Solutions-for-ISLP-Exercises
+# Solutions-for-ISLP-Exercises
 Welcome to my solutions repository for the exercises from "An Introduction to Statistical Learning with Applications in Python" (ISLP) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
 About the Book
