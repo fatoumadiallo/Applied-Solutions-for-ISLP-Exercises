@@ -12,7 +12,3 @@ Comprehensive Coverage: Linear regression, classification, resampling methods, t
 
 About This Repository
 This repository contains my solutions to some of the exercises found at the end of each chapter. Each exercise solution is implemented with a focus on accuracy and clarity.
-
-Structure
-Chapter-wise Folders: Each chapter's solutions are organized into separate folders, named Chapter_X, where X is the chapter number.
-Python Scripts and Notebooks: Solutions are provided in both .py scripts and Jupyter Notebook formats, depending on the complexity of the exercise.
